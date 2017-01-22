@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=DisqueDur(int)
+comment1.params=
+comment1.target=int\ getCapacite()
+comment2.params=x
+comment2.target=void\ setCapacite(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ affiche()
+numComments=5
